@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=cheej%20profile&fontSize=40)
 
 ### Hi there, cheeej profile 👋
-- <img src="https://img.shields.io/badge/react-#61DAFB?style=flat&logo=react&logoColor=white"/>
+- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 ## saint-laurent-main
 ## JCC
 
