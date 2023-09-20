@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=cheej%20render&fontSize=90)
 
 ### Hi there, cheeej profile 👋
 
