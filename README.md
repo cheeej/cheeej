@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=cheej%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=cheej%20render&fontSize=50)
 
 ### Hi there, cheeej profile 👋
 
